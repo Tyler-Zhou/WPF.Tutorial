@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-TreeViewsAndValueConvert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-TreeViewsSimpleViewModel", "03-TreeViewsSimpleViewModel\03-TreeViewsSimpleViewModel.csproj", "{13F26CC2-65DA-441C-A707-0C5F40DFCD0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Fasetto.Word", "04-Fasetto.Word\04-Fasetto.Word.csproj", "{542CFDBB-8860-408C-9D72-850A2D86184D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{13F26CC2-65DA-441C-A707-0C5F40DFCD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13F26CC2-65DA-441C-A707-0C5F40DFCD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13F26CC2-65DA-441C-A707-0C5F40DFCD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{542CFDBB-8860-408C-9D72-850A2D86184D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542CFDBB-8860-408C-9D72-850A2D86184D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542CFDBB-8860-408C-9D72-850A2D86184D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542CFDBB-8860-408C-9D72-850A2D86184D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
